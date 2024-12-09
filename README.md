@@ -1,0 +1,1 @@
+This example demonstrates a common error in VBScript stemming from the lack of function overloading.  The `processInput` function is redefined, causing the first version to be lost. The solution introduces a strategy to mimic overloading using conditional logic.
